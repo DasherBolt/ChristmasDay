@@ -1,1 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+}
 
+body {
+  
+  margin-left: 35em;
+  background: rgb(200, 200, 200);
+  
+}
